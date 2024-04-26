@@ -1,8 +1,4 @@
 import { Link } from "react-router-dom"
-import sofa1 from "../assets/sofa1.webp"
-import sofa2 from "../assets/sofa2.webp"
-import sofa3 from "../assets/sofa3.webp"
-import sofa4 from "../assets/sofa4.webp"
 import { useEffect, useState } from "react"
 
 function Home() {
